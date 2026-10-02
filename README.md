@@ -1,4 +1,4 @@
-\#About Project
+# About Project
 
 The dataset used in this exploration comes from kaggle.com and includes over 40,000 data points for electronics products. The dataset includes information about the products such as product name, ratings, reviews, pricing, discounts, best seller badge information, sponsor information, and more. An early observation about this data is the class imbalance of the dataset concerning the Best Seller information, with 5.9% of the data points being a Best Seller. Noting this is a difficulty, the present exploration aims to answer the following questions:
 
